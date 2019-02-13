@@ -6,3 +6,5 @@ GPS_LatLong.ino -  Este programa usa SoftwareSerial para comunicarse con el mód
   comprensible.
   
 GPS_serialport.ino - Se comunica con el módulo GPS y envía a través del puerto serie los datos brutos (sin transformar en datos comprensibles).
+
+GPS_SDcard.ino - Almacena los datos de GPS en un archivo y lo guarda en la tarjeta uSD.
