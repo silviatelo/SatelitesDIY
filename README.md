@@ -1,10 +1,21 @@
 # SatelitesDIY
 Proyecto Satélites caseros para estudios medioambientales de Madrid. Desarrollándose en Medialab-Prado, Madrid.
 
+Colaboradores/as: 
+
+Damián René, Steve Woolsens, Tania Netsvetaylova, Manuel Patiño, Pablo Fernández Robledo, Alvaro Redondo.
+Alumnado y profesorado (Felipe Yebes e Isabel Blázquez de Paz) del IES Gómez Moreno.
+Alumnado del IES Cervantes.
+
+https://www.medialab-prado.es/proyectos/satelites-diy
+
 Dentro de este proyecto, se desarrollan actualmente varios prototipos:
 
 - El alumnado del IES Gómez Moreno desarrolla un medidor de contaminación que geolocaliza la posición de medida y que tiene forma de botellín de bicicleta. 
 - El alumnado del IES Cervantes desarrolla un medidor de la contaminación que muestra los datos en una pantalla LCD, es una caja hecha con corte láser y se llama Laika II.
+
+El video del proceso de los primeros prototipos, LAIKA II y Botellín de bici, puede visitarse aquí: https://vimeo.com/379979688
+
 - Como parte de la investigación, se están desarrollando en Medialab varios prototipos que se nombran como los dioses griegos del viento. Estos son:
 
   - NOTOS (Νότος), viento del sur: Este sistema mide partículas volátiles PM2.5, PM10 y compuestos orgánicos volátiles (VOC). Los geolocaliza y almacena en una tarjeta SD. https://github.com/silviatelo/NOTOS
